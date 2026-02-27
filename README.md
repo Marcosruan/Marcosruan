@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Marcosruan/Marcosruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<picture>
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api?username=Marcosruan&theme=tokyonight"
+      alt="Marcos's GitHub Stats"
+    />
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <picture>
+    <img
+      height="180em"
+      src="https://streak-stats.demolab.com/?user=Marcosruan&theme=tokyonight"
+      alt="Marcos' GitHub Streak"
+    />
+  </picture>
+
+  <picture>
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcosruan&layout=compact&theme=tokyonight"
+      alt="Marcos' Top Languages"
+    />
+  </picture>
+
+  <picture>
+  <img
+    height="180em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Marcosruan&theme=tokyo-night" 
+    alt="Marcos'"
+    />
+  </picture>
+
+</div>
