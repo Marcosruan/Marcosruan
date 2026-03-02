@@ -11,6 +11,7 @@
 ![Figma](https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🗃️ About my github
 
