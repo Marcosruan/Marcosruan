@@ -13,6 +13,7 @@
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## 🗃️ About my github
 
