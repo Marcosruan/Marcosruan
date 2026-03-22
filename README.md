@@ -9,11 +9,11 @@
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-lightblue?style=for-the-badge&logo=css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## 🗃️ About my github
 
