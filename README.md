@@ -14,6 +14,7 @@
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 🗃️ About my github
 
