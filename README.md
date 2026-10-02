@@ -1,4 +1,4 @@
-## 🖐️ Hi there! My name is Marcos Ruan and I'm a Computer Science student. I love coding and learning new technologies. I'm fascinated by both frontend and backend, but I'm focusing on backend at the moment. 
+## 🖐️ Hi there! My name is Marcos Ruan and I'm a Computer Science student. I love coding and learning new technologies. I am more familiar with web programming, particularly backend development, but I am also interested in game development.
 
 ## 🖥️ Technologies
 
